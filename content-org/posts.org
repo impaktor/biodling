@@ -1,0 +1,40 @@
+#+hugo_base_dir: ../
+#+hugo_section: posts
+
+* My first post
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-post
+:EXPORT_HUGO_DRAFT: false
+:END:
+:tag1: tag2:
+
+Hello from Org-mode!
+
+** A subsection
+
+You can use normal Org syntax:
+- lists
+- *bold* /italic/
+- source blocks
+
+#+begin_src python
+print("Hello Hugo")
+#+end_src
+
+Can I use table?
+
+#+Caption: my table
+| A | B |
+|---+---|
+| 1 | 2 |
+| 3 | 4 |
+|   |   |
+
+* About
+:PROPERTIES:
+:EXPORT_FILE_NAME: about
+:EXPORT_HUGO_SECTION: 
+:EXPORT_HUGO_PERMALINK: /about/
+:END:
+
+This is a simple static page.

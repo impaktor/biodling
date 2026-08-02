@@ -1,0 +1,36 @@
+# baseURL = 'https://example.org/'
+# locale = 'en-us'
+# title = 'My New Hugo Project'
+
+baseURL = "https://impaktor.github.io/biodling"   # change this! (or /repo-name/ for project pages)
+languageCode = "en-us"
+title = "Bin"
+theme = "PaperMod"
+
+[markup.goldmark.renderer]
+  unsafe = true   # required for ox-hugo
+
+[params]
+  env = "production"
+  description = "A simple site written in Org-mode"
+  author = "Karl Fogelmark"
+  defaultTheme = "auto"          # light / dark / auto
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 30
