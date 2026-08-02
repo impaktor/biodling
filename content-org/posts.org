@@ -1,40 +1,153 @@
 #+hugo_base_dir: ../
 #+hugo_section: posts
 
-* My first post
+# TODO:
+# - biodling i Professorsstadens lummiga kvarter sedan 1991. Bina flyger 3 km, vilket
+#   innefattar hela botaniska trädgården.
+
+* Runing page                                                      :noexport:
+  always run:
+  : hugo server -D --navigateToChanged --baseURL=http://localhost:1313/biodling/
+* Lindskörden
 :PROPERTIES:
-:EXPORT_FILE_NAME: my-first-post
+:EXPORT_FILE_NAME: lind2026
 :EXPORT_HUGO_DRAFT: false
 :END:
-:tag1: tag2:
 
-Hello from Org-mode!
+#+CATPION: Bigårdens dubbel-kupa, en varm dag där bina sätter sig på flustret i klasar
+#+ATTR_HTML: :width 600
+[[/images/kupa-fram.jpg]]
 
-** A subsection
+År 2026 har varit ett sent år. Första vår-skörden skedde -- för första gången
+på dessa 35 år -- efter midsommar, något som märktes då vi annars brukar ha
+nyslungad honung på jordgubbarna.
 
-You can use normal Org syntax:
-- lists
-- *bold* /italic/
-- source blocks
+Under årets andra skörd, Lind-skörden, gick honungs-slungan, som centrifigerar
+ut honungen från binas vax-kakor, sönder efter 33 års trogen tjänst (köpt
+1993). Centrum-axelns undre fäste lossnade.
+  
+* Köp
+:PROPERTIES:
+:EXPORT_FILE_NAME: köp
+:EXPORT_HUGO_SECTION: 
+:EXPORT_HUGO_PERMALINK: /köp/
+:END:
 
-#+begin_src python
-print("Hello Hugo")
-#+end_src
+** Priser
+    | Antal burkar | Vikt  | Pris    | jmf. pris |
+    |--------------+-------+---------+-----------|
+    | 1 st         | 500 g | 120 kr  | 240 kr/kg |
+    | 12 st        | 6 kg  | 1200 kr | 200 kr/kg |
 
-Can I use table?
+  - Betalning: Swish (070 290 47 80) eller kontant. Vid köp av en hel låda får
+    man två burkar på köpet. OBS: försäljning lådvis är beroende av tillgång.
 
-#+Caption: my table
-| A | B |
-|---+---|
-| 1 | 2 |
-| 3 | 4 |
-|   |   |
+  /Vi tar gärna diskade burkar i retur/
 
-* About
+** Kontakt
+  - Ring: 070 290 47 80
+  - Knacka på: Gerdagatan 8
+
+* Om oss
 :PROPERTIES:
 :EXPORT_FILE_NAME: about
 :EXPORT_HUGO_SECTION: 
 :EXPORT_HUGO_PERMALINK: /about/
 :END:
 
-This is a simple static page.
+** Biodlingen
+
+Bigården består av fyra handsnickrade trä-kupor (istället för de inom
+biodlingen så vanliga frigolitlådorna), och ibland något mer eller färre
+beroende på hur de överlever vintern.
+
+Vi får vanligtvis tre skördar, vilka resulterar i:
+  - Vår-honung :: maj/juni
+  - Lind-honung :: juli (efter att lindarna blommat ut)
+  - Höst-honung :: resterande sena blommor
+
+** Historik
+   
+   #+CATPION: Blåregnet som 1991 oväntat blev vårt första bisamhälle
+   #+ATTR_HTML: :width 600
+   [[/images/blåregn.jpg]]
+
+   Vi är en familj som bor på Gerdagatan 8. En varm sommardag 1991 kom det en
+   bisvärm och satte sig i vårt blåregn på sydsidan av vår fasad. Karl var då
+   9 år och lekte i trädgården och ropade in mamma Christina.
+
+   Med beslutsamma fingrar bläddrades "biodlare" upp i gula sidorna, och Folke
+   Andersson kom och tog ner dem. Sedan såg han sig runt i trädgården och
+   tyckte att det nog kunde vara ett bra ställe för biodling.
+
+   Sagt och gjort. 
+
+   Nu är Christina 80+ och Karl lika gammal som hon var 1991 och har de
+   senaste åren avlastat det tunga arbetet under sommaren från sin mor.
+   
+** Vanliga frågor
+   - *Var har ni bina?* De står på tomten där du köpte burken.
+
+   - *Men kan man ha biodling i stan?* Absolut. Vi får typiskt bättre skörd per
+     bikupa än de som har på landet, där det är mer monokultur. Här finns
+     alltid något som blommar. Till exempel:
+     - Lindar längst med hela LTH, och Gerdahalls-kvarteret
+     - Botaniska trädgården bjuder på mycket blomster
+     - Egna blommor, som lavendel, rosmarin, oregano, fjärilsbuske, rödklöver,
+       vitsippor, kärleksört, mm.
+
+   - *Varför är somlig honung flytande och annan fast?* All honung är flytande
+     när den centrifugeras ut ur sina vax-kakor. Sedan följer en process där
+     den /kanderar/, d.v.s. en stelningsprocess. Den kan gå på dagar (som för de
+     som skördar raps- eller ljung-honung) eller månader som för oss som
+     skördar lind-honung.
+     
+   - *Hur skiljer sig er honung från den man köper i butik?* SVT [[https://www.svt.se/nyheter/inrikes/bluffen-all-importerad-honung-oakta-visar-nya-tester][rapporterade]]
+     2026 att vid test av 40 olika burkar från svenska matbutiker fann man
+     att: /Bara fyra av burkarna innehöll äkta honung och var producerade i
+     Sverige. De resterande 36 burkarna som alla var importerade innehöll mest
+     socker och sirap./
+
+     Det vill säga /all/ importerad honung var fusk, t.ex. rapporterade [[https://www.tv4.se/artikel/6Ds8rDiThYrrG0RUp32AIS/honungsfusket-i-butikerna-bara-fem-av-tolv-klarade-testet][TV4]]:
+
+     /ICAs tre honungssorter [[https://www.testfakta.se/sites/default/files/2026-04/Tabell_honung_vect%28260422%29_0.pdf][pekas ut i testet]] som avvikande: ICA I love ECO
+     Ekologisk Honung, ICA Honung och ICA Basic Flytande honung; även Garant
+     Ekologisk honung, Lune de Miel Blomsterhonung, Eldorado Flytande Honung
+     och Svensk Honungsförädling Blomsterhonung bedömdes som avvikande./
+
+     Vidare kan nämnas att den svenska honungen man köper i butiken som inte
+     är fusk köps in i bulk från stor-biodlare där man sedan rör ihop alla
+     olika sorter till en mer homogen blandning, vilket får de olika
+     blomsternas smak att slås ut. Sedan värms honungen upp, innan den säljs,
+     vilket förstör mycket av de nyttiga enzymer som finns i den.
+   
+     Det finns också indikationer på att äta lokalproducerad honung är ett
+     sätt för kroppen att acklimatisera sig till det pollen som man annars kan
+     irriteras av i sin närmiljö.
+
+   - *Finns det problem med bi-sjukdomar?* Sedan ett antal år tillbaka har
+     alla bin i Sverige [[https://en.wikipedia.org/wiki/Varroa_destructor][varoa kvalster]] vilka förstör binas flyförmåga om det
+     lämnas obehandlat. Vår behandling är helt naturlig och består i att hämma
+     dess förmåga att föröka sig i larvernas celler genom:
+     - Vintertid: Kuporna gasas med förångad oxalsyra. Kvalsterna faller döda
+       ner, men bina klarar det
+     - Höst: En kapsel myrsyra hängs in i yngelrummet
+     - Sommar: Varje kupa får en halv-hög ram i yngelrummet, vilket får bina
+       att bygga ut den till full storlek. Då de gör detta har de en preferens
+       för att göra cellerna större för drönare. Varoa-kvalster föredrar att
+       lägga sig i dessa, varför vi enkelt kan skära bort den halva ramen.
+
+   - *Är er honung ekologisk?* Vi använder inga onaturliga bekämpningsmedel i
+     vår produktion. Vi har myrsyra och oxalsyra efter att honungen bärgats på
+     höst/vinter mot varoa-kvalster. Överblivet vax som vi förvarar utanför
+     bikupan där de inte längre kan försvaras av bina får stå ihop med en kopp
+     ättika för att hålla vaxmalen borta - vilken annars snabbt är framme och
+     äter upp det dyrbara vaxet (vilket är dyrare än honungen, då det krävs 2
+     enheter honung för att biet skall kunna producera en enhet vax).
+
+     Vidare släpper inte vaktbina in flygbin med förorenad honung in i kupan.
+
+   - *Biodling låter trevligt, kanske något för mig?* Man bör veta att det är
+     mycket jobb på sommaren, och man kan inte åka ifrån på några längre
+     semester-resor. Bäst är att ta kontakt med en lokal biodlarförening.
+

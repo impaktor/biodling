@@ -1,10 +1,6 @@
-# baseURL = 'https://example.org/'
-# locale = 'en-us'
-# title = 'My New Hugo Project'
-
-baseURL = "https://impaktor.github.io/biodling"   # change this! (or /repo-name/ for project pages)
-languageCode = "en-us"
-title = "Bin"
+baseURL = "https://impaktor.github.io/biodling/"   # change this! (or /repo-name/ for project pages)
+locale = "en-us"
+title = "Professorsstadens Bigård"
 theme = "PaperMod"
 
 [markup.goldmark.renderer]
@@ -12,7 +8,7 @@ theme = "PaperMod"
 
 [params]
   env = "production"
-  description = "A simple site written in Org-mode"
+  description = "Hemsida för Fogelmarks biodling"
   author = "Karl Fogelmark"
   defaultTheme = "auto"          # light / dark / auto
   ShowReadingTime = true
@@ -20,17 +16,26 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  # relativeURLs = true
 
 [menu]
   [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 10
+    name = "Home"         # Text that appears in the menu      
+    url = "/"             # Path to the page or section        
+    weight = 10           # Lower number = appears further left
+
   [[menu.main]]
     name = "Posts"
     url = "/posts/"
     weight = 20
+
+  [[menu.main]]
+    name = "Köp"  
+    url = "/köp/" 
+    weight = 30   
+
   [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 30
+    weight = 40
+
