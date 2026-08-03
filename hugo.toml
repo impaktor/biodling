@@ -2,9 +2,14 @@ baseURL = "https://impaktor.github.io/biodling/"   # change this! (or /repo-name
 locale = "en-us"
 title = "Professorsstadens Bigård"
 theme = "PaperMod"
+canonifyURLs = true
+relativeURLs = false
 
 [markup.goldmark.renderer]
   unsafe = true   # required for ox-hugo
+
+[params.profileMode]
+  enabled = false   # lest _index.md will be ignored
 
 [params]
   env = "production"
@@ -16,26 +21,25 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
-  # relativeURLs = true
 
 [menu]
   [[menu.main]]
-    name = "Home"         # Text that appears in the menu      
-    url = "/"             # Path to the page or section        
+    name = "Hem"          # Text that appears in the menu      
+    url = ""             # Path to the page or section        
     weight = 10           # Lower number = appears further left
 
   [[menu.main]]
-    name = "Posts"
-    url = "/posts/"
+    name = "Inlägg"
+    url = "posts/"
     weight = 20
 
   [[menu.main]]
-    name = "Köp"  
-    url = "/köp/" 
+    name = "Köp"
+    url = "köp/" 
     weight = 30   
 
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Om oss"
+    url = "about/"
     weight = 40
 

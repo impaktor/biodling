@@ -5,18 +5,31 @@
 # - biodling i Professorsstadens lummiga kvarter sedan 1991. Bina flyger 3 km, vilket
 #   innefattar hela botaniska trädgården.
 
+* Home                                                                :@home:
+:PROPERTIES:
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_SECTION: 
+:EXPORT_HUGO_PERMALINK: /
+:END:
+
+Välkommen till Fogelmarks biodling!
+
+#+CATPION: Bigårdens dubbel-kupa, en varm dag där bina sätter sig på flustret i klasar
+#+ATTR_HTML: :width 800
+[[/images/kupa-fram.jpg]]
+
 * Runing page                                                      :noexport:
-  always run:
+  Always run:
   : hugo server -D --navigateToChanged --baseURL=http://localhost:1313/biodling/
-* Lindskörden
+* Lindskörden 2026
 :PROPERTIES:
 :EXPORT_FILE_NAME: lind2026
 :EXPORT_HUGO_DRAFT: false
 :END:
 
-#+CATPION: Bigårdens dubbel-kupa, en varm dag där bina sätter sig på flustret i klasar
+#+CATPION: Kupan öppen, 6 skatt-lådor (á 5 ramar) med honung
 #+ATTR_HTML: :width 600
-[[/images/kupa-fram.jpg]]
+[[/images/kupa-öppen.jpg]]
 
 År 2026 har varit ett sent år. Första vår-skörden skedde -- för första gången
 på dessa 35 år -- efter midsommar, något som märktes då vi annars brukar ha
@@ -24,8 +37,37 @@ nyslungad honung på jordgubbarna.
 
 Under årets andra skörd, Lind-skörden, gick honungs-slungan, som centrifigerar
 ut honungen från binas vax-kakor, sönder efter 33 års trogen tjänst (köpt
-1993). Centrum-axelns undre fäste lossnade.
+1993 i 50-års present till Christina). Centrum-axelns undre fäste lossnade.
   
+* SVT: Nästan all honung i svenska butiker är fusk
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: honungs-fusk
+  :EXPORT_HUGO_DRAFT: false
+  :END:
+
+  *Hur skiljer sig er honung från den man köper i butik?* SVT [[https://www.svt.se/nyheter/inrikes/bluffen-all-importerad-honung-oakta-visar-nya-tester][rapporterade]]
+  2026 att vid test av 40 olika burkar från svenska matbutiker fann man
+  att: /Bara fyra av burkarna innehöll äkta honung och var producerade i
+  Sverige. De resterande 36 burkarna som alla var importerade innehöll mest
+  socker och sirap./
+
+  Det vill säga /all/ importerad honung var fusk, t.ex. rapporterade [[https://www.tv4.se/artikel/6Ds8rDiThYrrG0RUp32AIS/honungsfusket-i-butikerna-bara-fem-av-tolv-klarade-testet][TV4]]:
+
+  /ICAs tre honungssorter [[https://www.testfakta.se/sites/default/files/2026-04/Tabell_honung_vect%28260422%29_0.pdf][pekas ut i testet]] som avvikande: ICA I love ECO
+  Ekologisk Honung, ICA Honung och ICA Basic Flytande honung; även Garant
+  Ekologisk honung, Lune de Miel Blomsterhonung, Eldorado Flytande Honung
+  och Svensk Honungsförädling Blomsterhonung bedömdes som avvikande./
+
+  Vidare kan nämnas att den svenska honungen man köper i butiken som inte
+  är fusk köps in i bulk från stor-biodlare där man sedan rör ihop alla
+  olika sorter till en mer homogen blandning, vilket får de olika
+  blomsternas smak att slås ut. Sedan värms honungen upp, innan den säljs,
+  vilket förstör mycket av de nyttiga enzymer som finns i den.
+   
+  Det finns också indikationer på att äta lokalproducerad honung är ett
+  sätt för kroppen att acklimatisera sig till det pollen som man annars kan
+  irriteras av i sin närmiljö.
+
 * Köp
 :PROPERTIES:
 :EXPORT_FILE_NAME: köp
@@ -43,6 +85,11 @@ ut honungen från binas vax-kakor, sönder efter 33 års trogen tjänst (köpt
     man två burkar på köpet. OBS: försäljning lådvis är beroende av tillgång.
 
   /Vi tar gärna diskade burkar i retur/
+
+  - Swish:
+
+  #+ATTR_HTML: :width 300
+  [[/images/swish-QR-small-120kr.png]]
 
 ** Kontakt
   - Ring: 070 290 47 80
@@ -91,8 +138,8 @@ Vi får vanligtvis tre skördar, vilka resulterar i:
    - *Men kan man ha biodling i stan?* Absolut. Vi får typiskt bättre skörd per
      bikupa än de som har på landet, där det är mer monokultur. Här finns
      alltid något som blommar. Till exempel:
-     - Lindar längst med hela LTH, och Gerdahalls-kvarteret
-     - Botaniska trädgården bjuder på mycket blomster
+     - Lindar längst med hela LTH- och Gerdahalls-kvarteret.
+     - Botaniska trädgården bjuder på mycket blomster.
      - Egna blommor, som lavendel, rosmarin, oregano, fjärilsbuske, rödklöver,
        vitsippor, kärleksört, mm.
 
@@ -151,3 +198,4 @@ Vi får vanligtvis tre skördar, vilka resulterar i:
      mycket jobb på sommaren, och man kan inte åka ifrån på några längre
      semester-resor. Bäst är att ta kontakt med en lokal biodlarförening.
 
+     

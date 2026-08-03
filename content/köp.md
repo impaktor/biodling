@@ -1,0 +1,26 @@
++++
+title = "Köp"
+draft = false
++++
+
+## Priser {#priser}
+
+| Antal burkar | Vikt  | Pris    | jmf. pris |
+|--------------|-------|---------|-----------|
+| 1 st         | 500 g | 120 kr  | 240 kr/kg |
+| 12 st        | 6 kg  | 1200 kr | 200 kr/kg |
+
+-   Betalning: Swish (070 290 47 80) eller kontant. Vid köp av en hel låda får
+    man två burkar på köpet. OBS: försäljning lådvis är beroende av tillgång.
+
+_Vi tar gärna diskade burkar i retur_
+
+-   Swish:
+
+{{< figure src="/images/swish-QR-small-120kr.png" width="300" >}}
+
+
+## Kontakt {#kontakt}
+
+-   Ring: 070 290 47 80
+-   Knacka på: Gerdagatan 8
