@@ -6,7 +6,7 @@ draft = false
 ## Biodlingen {#biodlingen}
 
 Bigården består av fyra handsnickrade trä-kupor (istället för de inom
-biodlingen så vanliga frigolitlådorna), och ibland något mer eller färre
+biodlingen så vanliga frigolitlådorna), och ibland några fler eller färre
 beroende på hur de överlever vintern.
 
 Vi får vanligtvis tre skördar, vilka resulterar i:

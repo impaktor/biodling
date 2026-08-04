@@ -19,7 +19,7 @@ Välkommen till Fogelmarks biodling!
 :EXPORT_FILE_NAME: _index
 :EXPORT_HUGO_SECTION: posts
 :END:
-* Runing page                                                      :noexport:
+* Att göra                                                         :noexport:
   - Always run:
     : hugo server -D --navigateToChanged --baseURL=http://localhost:1313/biodling/
 
@@ -29,22 +29,41 @@ Välkommen till Fogelmarks biodling!
   # - biodling i Professorsstadens lummiga kvarter sedan 1991. Bina flyger 3 km, vilket
   #   innefattar hela botaniska trädgården.
  
-  - [X] datum?
-  - [ ] centrera titel / namn på sidan? Font?
-  - [ ] bild på slung-mojäng
-  - [ ] bild på etiketter
   - [ ] tracking
+    - [ ] tracking på denna sidan
+    - [ ] tracking på pioneer sidan
+    - [ ] docker pull
+  - [X] datum?
+  - [X] bild på slung-mojäng
+  - [ ] centrera titel / namn på sidan? Font?
+  - [ ] bild på etiketter
+  - [ ] gör bilderna mindre
   - [ ] prenumerera
     - [ ] rss-feed
     - [ ] e-mail notifikation?
     - [ ] nämn i första posten & höst upp?
-  - [ ] make file takes back to root every refresh
+  - [ ] reload takes me back to root every refresh
   - [X] "Post" ändra ord
   - [X] fix FAQ
   - [X] fix fusk-post
 
+* TODO Ny etiketter
+  #+CATPION: Ges bina minsta extra utrymme i lådorna blir det "vildbygge"
+  #+ATTR_HTML: :width 600
+  [[/images/etiketter.jpg]]
+
+  På bilden ovan visas några av de olika etiketterna vi använt oss av. De
+  äldsta designades på en Macintosh från 1988 och limmades på med limstift.
+
+  Sedan hade vi självhäftande etiketter, men dessa är ohemult dyra.
+
+  Nu har vi gått tillbaka till början och använder vanligt skrivar-papper och
+  limmar på dem genom att pensla på mjölk(!) och låta det torka fast.
+  Etiketterna är nu specifika för varje skörd, med datum och vilken typ av
+  honung för att tydligare visa på innehållet.
+
 * DONE Lindskörden 2026 - Slungan sönder!
-  CLOSED: [2026-08-01 Sat 12:00]
+  CLOSED: [2026-07-28 Tue 12:00]
   :PROPERTIES:
   :EXPORT_FILE_NAME: lind2026
   :EXPORT_HUGO_DRAFT: false
@@ -56,12 +75,16 @@ Välkommen till Fogelmarks biodling!
 
 Under årets andra skörd gick honungs-slungan, som centrifugerar ut honungen
 från binas vax-kakor, sönder efter 33 års trogen tjänst. Den köptes för 5000
-kr 1993 i 50-års present till Christina.
+kr 1993 i 50-årspresent till Christina.
 
 Problemet är att centrum-axelns undre fäste i mässing lossnade. Fästet består
-av en mässings-rör i vilken centrum-axeln roterar, samt en mässings-stång som
+av ett mässings-rör i vilket centrum-axeln roterar, samt en mässings-stång som
 utgör botten av detta fäste. På förunderligt vis har dessa nu lossnat (slungan
 är italiensk).
+
+#+CATPION: Mässingsmuttern ihoplödd visar sig hålla bra, trots stor påfrestning under centrifugeringen
+#+ATTR_HTML: :width 600
+[[/images/mutter.jpg]]
 
 Vår provisoriska lösning håller än, men skall fixas permanent med riktig
 svetsning om vi inte hittar reservdel.
@@ -72,10 +95,10 @@ en rostfri tunna med konvex botten, likt en vinflaska, så att honungen rinner
 längs med väggen och yttre kanten på botten.
 
 * DONE Vårskörden 2026 - Rekordsen
+  CLOSED: [2026-06-25 Thu 12:00]
   :PROPERTIES:
   :EXPORT_FILE_NAME: vår2026
   :EXPORT_HUGO_DRAFT: false
-  :EXPORT_DATE: 2026-06-30
   :END:
 
 #+CATPION: Kupan öppen, 6 skatt-lådor (á 5 ramar) med honung
@@ -85,7 +108,11 @@ längs med väggen och yttre kanten på botten.
 År 2026 har varit ett sent år. Första vår-skörden skedde -- för första gången
 på dessa 35 år -- efter midsommar, något som märktes på midsommarbordet där vi
 annars brukar ha nyslungad honung på jordgubbarna.
-  
+
+#+CATPION: 
+#+ATTR_HTML: :width 600
+[[/images/kupa-yngelrum.jpg]]
+
 * DONE SVT: Nästan all honung i svenska butiker är fusk
   CLOSED: [2026-05-02 Sat 12:00]
   :PROPERTIES:
@@ -106,9 +133,12 @@ annars brukar ha nyslungad honung på jordgubbarna.
   Ekologisk honung, Lune de Miel Blomsterhonung, Eldorado Flytande Honung
   och Svensk Honungsförädling Blomsterhonung bedömdes som avvikande./
 
+  #+ATTR_HTML: :width 600
+  [[/images/testdata.png]]
+
   Vidare kan nämnas att den äkta honung man kan köpa i matbutiken från
   biodlarföreningen består av en blandning av honung från många storbiodlare,
-  sedan har den värmts upp över 40 grader, vilket förstör mycket av de nyttiga
+  sedan har den värmts upp över 40 grader, vilket förstör många av de nyttiga
   enzymer som finns i honungen.
    
 * DONE Nu är vi på nätet
@@ -136,7 +166,8 @@ annars brukar ha nyslungad honung på jordgubbarna.
     | 12 st        | 6 kg  | 1200 kr | 200 kr/kg |
 
   - Betalning: [[https://app.swish.nu/1/p/sw/?sw=0702904780&cur=SEK&msg=Honung&edit=msg&src=qr][Swish]] (070 290 47 80) eller kontant. Vid köp av en hel låda får
-    man två burkar på köpet. OBS: försäljning lådvis är beroende av tillgång.
+    man två burkar på köpet. OBS: försäljning är beroende av tillgång, undvik
+    därför förskottsbetalning, då vi inte kan garantera tillgång.
 
   /Vi tar gärna diskade burkar i retur/
 
@@ -152,19 +183,28 @@ annars brukar ha nyslungad honung på jordgubbarna.
   :END:
 
   - *Hur skiljer sig er honung från den man köper i butik?* Nästan all honung
-    som säljs i svenska matbutiker är fusk,
-    (@@hugo:[36 av 40 testade produkter]({{< relref "posts/honungs-fusk" >}})@@)
-    på något sätt, d.v.s. utspädd med socker, eller bara ren smaksatt och
-    färgad ris-sirap från Kina. Den honung som är äkta har dock värmts upp
-    vilket förstör mycket av de nyttiga ämnena som finns i honung.
+    som säljs i svenska matbutiker är fusk, (@@hugo:[36 av 40 testade
+    produkter]({{< relref "posts/honungs-fusk" >}})@@) på något sätt, d.v.s.
+    utspädd med socker, eller bara ren smaksatt och färgad ris-sirap från
+    Kina. Den honung som är äkta har dock värmts upp, till skillnad från vår,
+    vilket förstör många av de nyttiga ämnena som finns i honung.
 
     Vidare kan lokalproducerad honung ge kroppen en signal om vilka växter och
-    pollen som man annars kan irriteras av i sin närmiljö.
+    pollen i närmiljön som den kan vänja sig vid.
 
   - *Varför är somlig honung flytande och annan fast?* All honung är flytande
     när den centrifugeras ut ur sina vax-kakor. Sedan följer en process där
     den /kanderar/, d.v.s. en stelningsprocess. Den kan gå på dagar (t.ex.
     raps- eller ljung-honung) eller månader (för lind-honung).
+
+  - *Vilka processer genomgår er honung?* När bina har behandlat färdigt
+    honungen och fått ner vattenhalten tar vi vaxkakorna och slungar
+    (centrifugerar) ut den i en rostfri slunga, sedan silar vi bort vaxrester
+    genom tre silar (grov, mellan, fin). Därefter hälls den upp på tunnor där
+    vi under en tid (dagar, veckor) mekaniskt rör i den för att motverka att
+    den blir grynig under stelningsprocessen. När den är nära att /kandera/
+    (stelna) häller vi upp den på glasburkar. Vi tillsätter inget och värmer
+    inte upp den något.
 
   - *Var har ni bina?* De står på tomten där du köpte burken.
 
@@ -174,7 +214,7 @@ annars brukar ha nyslungad honung på jordgubbarna.
     - Lindar längst med hela LTH- och Gerdahalls-kvarteret.
     - Botaniska trädgården bjuder på mycket blomster.
     - Egna blommor som lavendel, rosmarin, oregano, fjärilsbuske, rödklöver,
-      vitsippor, kärleksört, äppelträd, leguster-häck, samt en och annan
+      vitsippor, kärleksört, äppelträd, liguster-häck, samt en och annan
       försakad maskros.
      
   - *Hur vet man att det är t.ex. just lind-honung?* Honungen tar smak av
@@ -184,16 +224,16 @@ annars brukar ha nyslungad honung på jordgubbarna.
     andra blommor de flugit till under juli.
 
   - *Är er honung ekologisk?* Talet om "ekologisk honung" är mest ett
-    försäljnings-knep då honung är av sin natur "ekologisk", då bina själva
-    tar hand om att inte använda förorenad nektar, och de medel vi biodlare
+    försäljnings-knep då honung av sin natur är "ekologisk", då bina själva
+    ser till om att inte använda förorenad nektar, och de medel vi biodlare
     använder för att hålla skade-djur stången är naturliga. Vi använder t.ex.
     malört och ättika för att vintertid hålla lagrad bivax fri från vaxmal;
     och efter att honungen bärgats och bina slutat lägga larver behandlar vi
-    dem mot [[https://en.wikipedia.org/wiki/Varroa_destructor][varoa kvalster]], ett gissel som nu infekterat när alla bin i
+    dem mot [[https://en.wikipedia.org/wiki/Varroa_destructor][varoakvalster]], ett gissel som nu infekterat när alla bin i
     Sverige, med att under kort tid ånga dem med myrsyra och oxalsyra.
 
   - *Biodling låter trevligt, kanske något för mig?* Bäst är att ta kontakt
-    med en lokal biodlarförening (vi tillhör [[https://www.biodlarna.se/distrikt/][Tornabyggdens]]). Var beredd på:
+    med en lokal biodlarförening (vi tillhör [[https://www.biodlarna.se/distrikt/][Tornabygdens]]). Var beredd på:
     - Inte lämna bina för semester mer än några dagars tid under sommarhalvåret
     - Tunga lyft och varmt i bidräkten 
     - Mycket jobb på sommaren, väldigt lite på vintern
@@ -208,7 +248,7 @@ annars brukar ha nyslungad honung på jordgubbarna.
 ** Biodlingen
 
 Bigården består av fyra handsnickrade trä-kupor (istället för de inom
-biodlingen så vanliga frigolitlådorna), och ibland något mer eller färre
+biodlingen så vanliga frigolitlådorna), och ibland några fler eller färre
 beroende på hur de överlever vintern.
 
 Vi får vanligtvis tre skördar, vilka resulterar i:

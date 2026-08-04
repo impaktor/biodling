@@ -11,7 +11,8 @@ draft = false
 | 12 st        | 6 kg  | 1200 kr | 200 kr/kg |
 
 -   Betalning: [Swish](https://app.swish.nu/1/p/sw/?sw=0702904780&cur=SEK&msg=Honung&edit=msg&src=qr) (070 290 47 80) eller kontant. Vid köp av en hel låda får
-    man två burkar på köpet. OBS: försäljning lådvis är beroende av tillgång.
+    man två burkar på köpet. OBS: försäljning är beroende av tillgång, undvik
+    därför förskottsbetalning, då vi inte kan garantera tillgång.
 
 _Vi tar gärna diskade burkar i retur_
 
