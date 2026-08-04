@@ -1,4 +1,5 @@
-baseURL = "https://impaktor.github.io/biodling/"   # change this! (or /repo-name/ for project pages)
+# baseURL = "https://impaktor.github.io/biodling/"
+baseURL = "https://bin.fogelmark.org/"
 defaultContentLanguage = "sv"
 locale = "sv-se"
 title = "Professorsstadens Bigård"
