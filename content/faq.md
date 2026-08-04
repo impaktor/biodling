@@ -51,7 +51,9 @@ draft = false
     malört och ättika för att vintertid hålla lagrad bivax fri från vaxmal;
     och efter att honungen bärgats och bina slutat lägga larver behandlar vi
     dem mot [varoakvalster](https://en.wikipedia.org/wiki/Varroa_destructor), ett gissel som nu infekterat när alla bin i
-    Sverige, med att under kort tid ånga dem med myrsyra och oxalsyra.
+    Sverige, med att under kort tid ånga dem med myrsyra och oxalsyra. Vidare
+    är våra kupor helt i trä, tillskillnad från de allrådande frigolit- och
+    plast-lådorna som oftast används.
 
 -   **Biodling låter trevligt, kanske något för mig?** Bäst är att ta kontakt
     med en lokal biodlarförening (vi tillhör [Tornabygdens](https://www.biodlarna.se/distrikt/)). Var beredd på:

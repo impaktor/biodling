@@ -35,5 +35,5 @@ tyckte att det nog kunde vara ett bra ställe för biodling.
 
 Sagt och gjort.
 
-Nu är Christina 80+ och Karl lika gammal som hon var 1991 och har de
+Nu är Christina 80+ och Karl 40+, precis som hon var 1991, och han har de
 senaste åren avlastat det tunga arbetet under sommaren från sin mor.
