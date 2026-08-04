@@ -1,9 +1,13 @@
 baseURL = "https://impaktor.github.io/biodling/"   # change this! (or /repo-name/ for project pages)
-locale = "en-us"
+defaultContentLanguage = "sv"
+locale = "sv-se"
 title = "Professorsstadens Bigård"
 theme = "PaperMod"
 canonifyURLs = true
 relativeURLs = false
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]   # JSON is optional (needed for search)
 
 [markup.goldmark.renderer]
   unsafe = true   # required for ox-hugo
@@ -21,11 +25,22 @@ relativeURLs = false
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+  ShowFullTextinRSS = true               # include full post content in the feed (nice for readers)
+  ShowRssButtonInSectionTermList = true  # show RSS icon on list/tag/category pages
+  # 
+  # [[params.socialIcons]]
+  #   name = "rss"
+  #   url  = "index.xml"
+
+[params.umami]
+  script = "https://analytics.pioneerspacesim.net/script.js"
+  id     = "YOUR-WEBSITE-ID-HERE"
+  host   = "https://analytics.pioneerspacesim.net"
 
 [menu]
   [[menu.main]]
     name = "Hem"          # Text that appears in the menu      
-    url = ""             # Path to the page or section        
+    url = ""              # Path to the page or section        
     weight = 10           # Lower number = appears further left
 
   [[menu.main]]
@@ -39,7 +54,12 @@ relativeURLs = false
     weight = 30   
 
   [[menu.main]]
+    name = "Vanliga frågor"
+    url = "faq/" 
+    weight = 40   
+
+  [[menu.main]]
     name = "Om oss"
     url = "about/"
-    weight = 40
+    weight = 50
 

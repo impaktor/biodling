@@ -1,5 +1,5 @@
 +++
-title = "Home"
+title = "Hem"
 categories = ["home"]
 draft = false
 +++
