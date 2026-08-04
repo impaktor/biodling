@@ -24,6 +24,12 @@ jobs:
           submodules: recursive
           fetch-depth: 0
 
+      - name: Debug - list themes
+        run: |
+          ls -la
+          ls -la themes || true
+          ls -la themes/PaperMod || true
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:

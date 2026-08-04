@@ -5,7 +5,7 @@ draft = false
 
 -   **Hur skiljer sig er honung från den man köper i butik?** Nästan all honung
     som säljs i svenska matbutiker är fusk,
-    ([36 av 40 testade produkter]({{< relref "honungs-fusk" >}}))
+    ([36 av 40 testade produkter]({{< relref "posts/honungs-fusk" >}}))
     på något sätt, d.v.s. utspädd med socker, eller bara ren smaksatt och
     färgad ris-sirap från Kina. Den honung som är äkta har dock värmts upp
     vilket förstör mycket av de nyttiga ämnena som finns i honung.
