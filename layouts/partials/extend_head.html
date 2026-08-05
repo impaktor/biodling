@@ -1,0 +1,8 @@
+{{- if hugo.IsProduction }}
+  {{- with site.Params.umami }}
+  <script defer src="{{ .script }}"
+          data-website-id="{{ .id }}"
+          data-host-url="{{ .host }}">
+  </script>
+  {{- end }}
+{{- end }}
