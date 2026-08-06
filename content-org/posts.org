@@ -109,9 +109,23 @@ längs med väggen och yttre kanten på botten.
 på dessa 35 år -- efter midsommar, något som märktes på midsommarbordet där vi
 annars brukar ha nyslungad honung på jordgubbarna.
 
-#+CATPION: 
+* DONE Inspektion av yngelrum
+  CLOSED: [2026-06-10 Wed 11:05]
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: 2026-yngelbesök
+  :EXPORT_HUGO_DRAFT: false
+  :END:
+
+Varje vecka behöver yngelrummen inspekteras för att ta bort eventuella
+drottningceller, annars svärmar det.
+
+#+CAPTION: Den ena kupans yngelrum
 #+ATTR_HTML: :width 600
 [[/images/kupa-yngelrum.jpg]]
+
+#+CAPTION: Drottningen kan inte gå igenom spärr-gallret, på så vis hålls honung och yngel separerade
+#+ATTR_HTML: :width 600
+[[/images/kupa-yngelrum-vänster.jpg]]
 
 * DONE SVT: Nästan all honung i svenska butiker är fusk
   CLOSED: [2026-05-02 Sat 12:00]
@@ -224,15 +238,15 @@ annars brukar ha nyslungad honung på jordgubbarna.
     andra blommor de flugit till under juli.
 
   - *Är er honung ekologisk?* Talet om "ekologisk honung" är mest ett
-    försäljnings-knep då honung av sin natur är "ekologisk", då bina själva
-    ser till om att inte använda förorenad nektar, och de medel vi biodlare
-    använder för att hålla skade-djur stången är naturliga. Vi använder t.ex.
-    malört och ättika för att vintertid hålla lagrad bivax fri från vaxmal;
-    och efter att honungen bärgats och bina slutat lägga larver behandlar vi
-    dem mot [[https://en.wikipedia.org/wiki/Varroa_destructor][varoakvalster]], ett gissel som nu infekterat när alla bin i
-    Sverige, med att under kort tid ånga dem med myrsyra och oxalsyra. Vidare
-    är våra kupor helt i trä, tillskillnad från de allrådande frigolit- och
-    plast-lådorna som oftast används.
+    försäljnings-knep då honung av sin natur är "ekologisk", eftersom bina
+    själva ser till om att inte använda förorenad nektar, och de medel
+    biodlare använder för att hålla skade-djur stången är naturliga. Vi
+    använder t.ex. malört och ättika för att vintertid hålla lagrad bivax fri
+    från vaxmal; och efter att honungen bärgats och bina slutat lägga larver
+    behandlar vi dem mot [[https://en.wikipedia.org/wiki/Varroa_destructor][varoakvalster]], ett gissel som nu infekterat när alla
+    bin i Sverige, med att under kort tid ånga dem med myrsyra och oxalsyra.
+    Vidare är våra kupor och ramar helt i trä, tillskillnad från de allrådande
+    frigolit- och plast-lådorna som annars oftast används.
 
   - *Biodling låter trevligt, kanske något för mig?* Bäst är att ta kontakt
     med en lokal biodlarförening (vi tillhör [[https://www.biodlarna.se/distrikt/][Tornabygdens]]). Var beredd på:

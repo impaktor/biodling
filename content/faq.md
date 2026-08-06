@@ -45,15 +45,15 @@ draft = false
     andra blommor de flugit till under juli.
 
 -   **Är er honung ekologisk?** Talet om "ekologisk honung" är mest ett
-    försäljnings-knep då honung av sin natur är "ekologisk", då bina själva
-    ser till om att inte använda förorenad nektar, och de medel vi biodlare
-    använder för att hålla skade-djur stången är naturliga. Vi använder t.ex.
-    malört och ättika för att vintertid hålla lagrad bivax fri från vaxmal;
-    och efter att honungen bärgats och bina slutat lägga larver behandlar vi
-    dem mot [varoakvalster](https://en.wikipedia.org/wiki/Varroa_destructor), ett gissel som nu infekterat när alla bin i
-    Sverige, med att under kort tid ånga dem med myrsyra och oxalsyra. Vidare
-    är våra kupor helt i trä, tillskillnad från de allrådande frigolit- och
-    plast-lådorna som oftast används.
+    försäljnings-knep då honung av sin natur är "ekologisk", eftersom bina
+    själva ser till om att inte använda förorenad nektar, och de medel
+    biodlare använder för att hålla skade-djur stången är naturliga. Vi
+    använder t.ex. malört och ättika för att vintertid hålla lagrad bivax fri
+    från vaxmal; och efter att honungen bärgats och bina slutat lägga larver
+    behandlar vi dem mot [varoakvalster](https://en.wikipedia.org/wiki/Varroa_destructor), ett gissel som nu infekterat när alla
+    bin i Sverige, med att under kort tid ånga dem med myrsyra och oxalsyra.
+    Vidare är våra kupor och ramar helt i trä, tillskillnad från de allrådande
+    frigolit- och plast-lådorna som annars oftast används.
 
 -   **Biodling låter trevligt, kanske något för mig?** Bäst är att ta kontakt
     med en lokal biodlarförening (vi tillhör [Tornabygdens](https://www.biodlarna.se/distrikt/)). Var beredd på:
