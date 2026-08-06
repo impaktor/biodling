@@ -1,0 +1,10 @@
+figure figcaption,
+.figure-caption {
+  text-align: center;
+  font-style: italic;
+  margin-top: 0.5rem;
+}
+
+.figure-number {
+  display: none;
+}
