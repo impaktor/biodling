@@ -10,7 +10,7 @@
 
 Välkommen till Fogelmarks biodling!
 
-#+CATPION: Bigårdens dubbel-kupa, en varm dag där bina sätter sig på flustret i klasar
+#+CAPTION: Bigårdens dubbel-kupa, en varm dag där bina sätter sig på flustret i klasar
 #+ATTR_HTML: :width 800
 [[/images/kupa-fram.jpg]]
 
@@ -48,7 +48,7 @@ Välkommen till Fogelmarks biodling!
   - [X] fix fusk-post
 
 * TODO Ny etiketter
-  #+CATPION: Ges bina minsta extra utrymme i lådorna blir det "vildbygge"
+  #+CAPTION: Etiketterna vi använt över årens lopp
   #+ATTR_HTML: :width 600
   [[/images/etiketter.jpg]]
 
@@ -69,7 +69,7 @@ Välkommen till Fogelmarks biodling!
   :EXPORT_HUGO_DRAFT: false
   :END:
 
-#+CATPION: Ges bina minsta extra utrymme i lådorna blir det "vildbygge"
+#+CAPTION: Ges bina minsta extra utrymme i lådorna blir det "vildbygge"
 #+ATTR_HTML: :width 600
 [[/images/ram-vildbygge.jpg]]
 
@@ -82,7 +82,7 @@ av ett mässings-rör i vilket centrum-axeln roterar, samt en mässings-stång s
 utgör botten av detta fäste. På förunderligt vis har dessa nu lossnat (slungan
 är italiensk).
 
-#+CATPION: Mässingsmuttern ihoplödd visar sig hålla bra, trots stor påfrestning under centrifugeringen
+#+CAPTION: Mässingsmuttern ihoplödd visar sig hålla bra, trots stor påfrestning under centrifugeringen
 #+ATTR_HTML: :width 600
 [[/images/mutter.jpg]]
 
@@ -101,7 +101,7 @@ längs med väggen och yttre kanten på botten.
   :EXPORT_HUGO_DRAFT: false
   :END:
 
-#+CATPION: Kupan öppen, 6 skatt-lådor (á 5 ramar) med honung
+#+CAPTION: Kupan öppen, 6 skatt-lådor (á 5 ramar) med honung
 #+ATTR_HTML: :width 600
 [[/images/kupa-öppen.jpg]]
 
@@ -260,7 +260,7 @@ Vi får vanligtvis tre skördar, vilka resulterar i:
 
 ** Historik
    
-   #+CATPION: Blåregnet som 1991 oväntat blev vårt första bisamhälle
+   #+CAPTION: Blåregnet som 1991 oväntat blev vårt första bisamhälle
    #+ATTR_HTML: :width 600
    [[/images/blåregn.jpg]]
 
