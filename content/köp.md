@@ -3,6 +3,9 @@ title = "Köp"
 draft = false
 +++
 
+{{< figure src="/images/honung-köp.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Lindskörden har just blivit upphälld på burk och fått etikett" width="600" >}}
+
+
 ## Priser {#priser}
 
 | Antal burkar | Vikt  | Pris    | jmf. pris |

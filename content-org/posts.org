@@ -173,6 +173,10 @@ drottningceller, annars svärmar det.
 :EXPORT_HUGO_PERMALINK: /köp/
 :END:
 
+#+CAPTION: Lindskörden har just blivit upphälld på burk och fått etikett
+#+ATTR_HTML: :width 600
+[[/images/honung-köp.jpg]]
+
 ** Priser
     | Antal burkar | Vikt  | Pris    | jmf. pris |
     |--------------+-------+---------+-----------|
