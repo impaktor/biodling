@@ -25,7 +25,8 @@ draft = false
     vi under en tid (dagar, veckor) mekaniskt rör i den för att motverka att
     den blir grynig under stelningsprocessen. När den är nära att _kandera_
     (stelna) häller vi upp den på glasburkar. Vi tillsätter inget och värmer
-    inte upp den något.
+    inte upp den något (till skillnad från honung i butik), då det skulle
+    förstöra många av de nyttiga enzymerna som finns i honungen.
 
 -   **Var har ni bina?** De står på tomten där du köpte burken.
 
@@ -46,7 +47,7 @@ draft = false
 
 -   **Är er honung ekologisk?** Talet om "ekologisk honung" är mest ett
     försäljnings-knep då honung av sin natur är "ekologisk", eftersom bina
-    själva ser till om att inte använda förorenad nektar, och de medel
+    själva ser till att inte använda förorenad nektar, och de medel
     biodlare använder för att hålla skade-djur stången är naturliga. Vi
     använder t.ex. malört och ättika för att vintertid hålla lagrad bivax fri
     från vaxmal; och efter att honungen bärgats och bina slutat lägga larver
@@ -59,4 +60,4 @@ draft = false
     med en lokal biodlarförening (vi tillhör [Tornabygdens](https://www.biodlarna.se/distrikt/)). Var beredd på:
     -   Inte lämna bina för semester mer än några dagars tid under sommarhalvåret
     -   Tunga lyft och varmt i bidräkten
-    -   Mycket jobb på sommaren, väldigt lite på vintern
+    -   Mycket jobb på sommaren, mindre på vintern

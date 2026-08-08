@@ -10,7 +10,7 @@
 
 Välkommen till Fogelmarks biodling!
 
-#+CAPTION: Bigårdens dubbel-kupa, en varm dag där bina sätter sig på flustret i klasar
+#+CAPTION: En av bigårdens dubbelkupor, en varm dag där bina sätter sig på flustret i klasar
 #+ATTR_HTML: :width 800
 [[/images/kupa-fram.jpg]]
 
@@ -62,7 +62,7 @@ Välkommen till Fogelmarks biodling!
   Etiketterna är nu specifika för varje skörd, med datum och vilken typ av
   honung för att tydligare visa på innehållet.
 
-* DONE Lindskörden 2026 - Slungan sönder!
+* DONE Lindskörden 2026 - slungan sönder!
   CLOSED: [2026-07-28 Tue 12:00]
   :PROPERTIES:
   :EXPORT_FILE_NAME: lind2026
@@ -94,7 +94,7 @@ mathantering? Honungen kommer aldrig i närheten av dessa då slungan består av
 en rostfri tunna med konvex botten, likt en vinflaska, så att honungen rinner
 längs med väggen och yttre kanten på botten.
 
-* DONE Vårskörden 2026 - Rekordsen
+* DONE Vårskörden 2026 - senaste någonsin
   CLOSED: [2026-06-25 Thu 12:00]
   :PROPERTIES:
   :EXPORT_FILE_NAME: vår2026
@@ -116,8 +116,9 @@ annars brukar ha nyslungad honung på jordgubbarna.
   :EXPORT_HUGO_DRAFT: false
   :END:
 
-Varje vecka behöver yngelrummen inspekteras för att ta bort eventuella
-drottningceller, annars svärmar det.
+Varje vecka fram till Midsommar behöver yngelrummen inspekteras för att ta
+bort eventuella drottningceller, annars svärmar de. Efter midsommar minskar
+oftast svärmlusten och man behöver inte kolla dem lika ofta.
 
 #+CAPTION: Den ena kupans yngelrum
 #+ATTR_HTML: :width 600
@@ -222,7 +223,8 @@ drottningceller, annars svärmar det.
     vi under en tid (dagar, veckor) mekaniskt rör i den för att motverka att
     den blir grynig under stelningsprocessen. När den är nära att /kandera/
     (stelna) häller vi upp den på glasburkar. Vi tillsätter inget och värmer
-    inte upp den något.
+    inte upp den något (till skillnad från honung i butik), då det skulle
+    förstöra många av de nyttiga enzymerna som finns i honungen.
 
   - *Var har ni bina?* De står på tomten där du köpte burken.
 
@@ -243,7 +245,7 @@ drottningceller, annars svärmar det.
 
   - *Är er honung ekologisk?* Talet om "ekologisk honung" är mest ett
     försäljnings-knep då honung av sin natur är "ekologisk", eftersom bina
-    själva ser till om att inte använda förorenad nektar, och de medel
+    själva ser till att inte använda förorenad nektar, och de medel
     biodlare använder för att hålla skade-djur stången är naturliga. Vi
     använder t.ex. malört och ättika för att vintertid hålla lagrad bivax fri
     från vaxmal; och efter att honungen bärgats och bina slutat lägga larver
@@ -256,7 +258,7 @@ drottningceller, annars svärmar det.
     med en lokal biodlarförening (vi tillhör [[https://www.biodlarna.se/distrikt/][Tornabygdens]]). Var beredd på:
     - Inte lämna bina för semester mer än några dagars tid under sommarhalvåret
     - Tunga lyft och varmt i bidräkten 
-    - Mycket jobb på sommaren, väldigt lite på vintern
+    - Mycket jobb på sommaren, mindre på vintern
 
 * Om oss
 :PROPERTIES:

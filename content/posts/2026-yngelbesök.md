@@ -4,8 +4,9 @@ date = 2026-06-10T11:05:00+02:00
 draft = false
 +++
 
-Varje vecka behöver yngelrummen inspekteras för att ta bort eventuella
-drottningceller, annars svärmar det.
+Varje vecka fram till Midsommar behöver yngelrummen inspekteras för att ta
+bort eventuella drottningceller, annars svärmar de. Efter midsommar minskar
+oftast svärmlusten och man behöver inte kolla dem lika ofta.
 
 {{< figure src="/images/kupa-yngelrum.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Den ena kupans yngelrum" width="600" >}}
 
