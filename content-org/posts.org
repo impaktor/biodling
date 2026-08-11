@@ -47,20 +47,43 @@ Välkommen till Fogelmarks biodling!
   - [X] fix FAQ
   - [X] fix fusk-post
 
-* TODO Ny etiketter
+* DONE Nya etiketter
+  CLOSED: [2026-08-09 Sun 10:55]
+  :PROPERTIES:
+  :EXPORT_FILE_NAME: 2026-nya-etiketter
+  :EXPORT_HUGO_DRAFT: false
+  :END:
+
   #+CAPTION: Etiketterna vi använt över årens lopp
-  #+ATTR_HTML: :width 600
-  [[/images/etiketter.jpg]]
+  #+ATTR_HTML: :class align-center :width 600
+  [[/images/etiketter-gamla.jpg]]
 
   På bilden ovan visas några av de olika etiketterna vi använt oss av. De
   äldsta designades på en Macintosh från 1988 och limmades på med limstift.
 
-  Sedan hade vi självhäftande etiketter, men dessa är ohemult dyra.
+  Sedan gick vi över till självhäftande etiketter, men dessa är ohemult dyra,
+  och krävde stor upplaga som räckte i många år.
 
-  Nu har vi gått tillbaka till början och använder vanligt skrivar-papper och
-  limmar på dem genom att pensla på mjölk(!) och låta det torka fast.
-  Etiketterna är nu specifika för varje skörd, med datum och vilken typ av
-  honung för att tydligare visa på innehållet.
+  Nu har vi gått tillbaka till början och använder vanligt skrivar-papper som
+  vi klipper och limmar på själva. Dock använder vi inte limstift längre, utan
+  penslar bara på helt vanlig mjölk(!) och låta det torka fast. Detta
+  fungerar utmärkt, då det är billigt, miljövänligt, och enkelt att
+  diska av etiketterna.
+
+  Med det nya systemet får vi större flexibilitet, så att de nu kan vara
+  specifika för varje skörd, med datum och vilken typ av honung.
+
+  #+CAPTION: De nya etiketterna specificerar både datum och vilken skörd (blå text) honungen kommer från
+  #+ATTR_HTML: :align center :width 75%
+  [[/images/etikett-vår.jpg]]
+
+  #+CAPTION: Nu får lind-skörden en tydlig unik etikett, med en lindkvist på
+  #+ATTR_HTML: :align center :width 75%
+  [[/images/etikett-lind.jpg]]
+
+  #+CAPTION: Höst-etiketten pryds av arkitekt-ritningen på huset från 1925, där bikuporna står
+  #+ATTR_HTML: :align center :width 75%
+  [[/images/etikett-höst.jpg]]
 
 * DONE Lindskörden 2026 - slungan sönder!
   CLOSED: [2026-07-28 Tue 12:00]
