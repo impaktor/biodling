@@ -23,7 +23,7 @@ Höst-honung
 
 ## Historik {#historik}
 
-{{< figure src="/images/blåregn.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Blåregnet som 1991 oväntat blev vårt första bisamhälle" width="600" >}}
+{{< figure src="/images/blåregn.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Blåregnet som 1991 oväntat blev tillfälligt hem åt vårt första bisamhälle" width="600" >}}
 
 Vi är en familj som bor på Gerdagatan 8. En varm sommardag 1991 kom det en
 bisvärm och satte sig i vårt blåregn på sydsidan av vår fasad. Karl var då
@@ -36,4 +36,5 @@ tyckte att det nog kunde vara ett bra ställe för biodling.
 Sagt och gjort.
 
 Nu är Christina 80+ och Karl 40+, precis som hon var 1991, och han har de
-senaste åren avlastat det tunga arbetet under sommaren från sin mor.
+senaste åren avlastat allt mer av det tunga arbetet under sommaren från sin
+mor.
