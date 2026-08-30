@@ -4,7 +4,7 @@
 * Hem                                                                 :@home:
 :PROPERTIES:
 :EXPORT_FILE_NAME: _index
-:EXPORT_HUGO_SECTION: 
+:EXPORT_HUGO_SECTION:
 :EXPORT_HUGO_PERMALINK: /
 :END:
 
@@ -194,7 +194,7 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
   biodlarföreningen består av en blandning av honung från många storbiodlare,
   sedan har den värmts upp över 40 grader, vilket förstör många av de nyttiga
   enzymer som finns i honungen.
-   
+
 * DONE Nu är vi på nätet
   CLOSED: [2026-05-01 Sat 12:00]
   :PROPERTIES:
@@ -203,13 +203,13 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
   :END:
 
   Syns man inte finns man inte har någon sagt.
-  
+
   Här ämnar vi dela med oss av statusen ute bland bina och honungs-skörden,
   följ gärna med.
 * Köp
 :PROPERTIES:
 :EXPORT_FILE_NAME: köp
-:EXPORT_HUGO_SECTION: 
+:EXPORT_HUGO_SECTION:
 :EXPORT_HUGO_PERMALINK: /köp/
 :END:
 
@@ -290,7 +290,7 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
   #+CAPTION:  Bara inom 1 km radie finns både Botaniska trädgården, UB-parken, Tunaparken, Lundagård och Norra Kyrkogården. Bina kan dock flyga 3 gånger längre än så, och täcka in hela Lund.
   #+ATTR_HTML: :width 100%
   [[/images/karta-bin.png]]
-     
+
   - *Hur vet man att det är t.ex. just lind-honung?* Honungen tar smak av
     vilka växter de flyger till. Vi bärgar första skörden precis innan lindarna
     blommar i början av juli, och sedan skördar vi efter att de blommat ut.
@@ -312,13 +312,13 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
   - *Biodling låter trevligt, kanske något för mig?* Bäst är att ta kontakt
     med en lokal biodlarförening (vi tillhör [[https://www.biodlarna.se/distrikt/][Tornabygdens]]). Var beredd på:
     - Inte lämna bina för semester mer än några dagars tid under sommarhalvåret
-    - Tunga lyft och varmt i bidräkten 
+    - Tunga lyft och varmt i bidräkten
     - Mycket jobb på sommaren, mindre på vintern
 
 * Om oss
 :PROPERTIES:
 :EXPORT_FILE_NAME: about
-:EXPORT_HUGO_SECTION: 
+:EXPORT_HUGO_SECTION:
 :EXPORT_HUGO_PERMALINK: /about/
 :END:
 
@@ -334,7 +334,7 @@ Vi får vanligtvis tre skördar, vilka resulterar i:
   - Höst-honung :: resterande sena blommor
 
 ** Historik
-   
+
    #+CAPTION: Blåregnet som 1991 oväntat blev tillfälligt hem åt vårt första bisamhälle
    #+ATTR_HTML: :width 600
    [[/images/blåregn.jpg]]
@@ -347,7 +347,7 @@ Vi får vanligtvis tre skördar, vilka resulterar i:
    Andersson kom och tog ner dem. Sedan såg han sig runt i trädgården och
    tyckte att det nog kunde vara ett bra ställe för biodling.
 
-   Sagt och gjort. 
+   Sagt och gjort.
 
    Nu är Christina 80+ och Karl 40+, precis som hon var 1991, och han har de
    senaste åren avlastat allt mer av det tunga arbetet under sommaren från sin
