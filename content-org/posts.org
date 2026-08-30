@@ -105,10 +105,11 @@ Under årets andra skörd gick honungs-slungan, som centrifugerar ut honungen
 från binas vax-kakor, sönder efter 33 års trogen tjänst. Den köptes för 5000
 kr 1993 i 50-årspresent till Christina.
 
-Problemet är att centrum-axelns undre fäste i mässing lossnade. Fästet består
-av ett mässings-rör i vilket centrum-axeln roterar, samt en mässings-stång som
-utgör botten av detta fäste. På förunderligt vis har dessa nu lossnat (slungan
-är italiensk).
+Problemet är att centrum-axelns undre fäste i mässing gick i två stycken.
+Fästet består av ett mässings-rör i vilket centrum-axeln roterar, samt en
+mässings-stång som utgör botten av detta fäste. Dessa har varit gjorda i ett
+stycke, men förmodligen har centrum-axeln ätit sig igenom botten av
+mässings-röret.
 
 #+CAPTION: Mässingsmuttern ihoplödd visar sig hålla bra, trots stor påfrestning under centrifugeringen
 #+ATTR_HTML: :width 600
@@ -121,6 +122,16 @@ Vän av ordning frågar sig säkert: Hur funkar det med mässing och lödtenn i
 mathantering? Honungen kommer aldrig i närheten av dessa då slungan består av
 en rostfri tunna med konvex botten, likt en vinflaska, så att honungen rinner
 längs med väggen och yttre kanten på botten -- aldrig i mitten.
+
+** Uppdatering
+   Vi fick tag i en flink biodlare i Flyinge med smedja som på under en dag
+   svarvade en ny bult till oss, fast denna gången i brons, som är hårdare än
+   mässing, och med mer gods i botten så att den inte skall gå sönder i första
+   laget. Innerdimensionen blev exakt som på den gamla.
+
+#+CAPTION: Original (mässing) och ny (brons) del till slungan
+#+ATTR_HTML: :width 600
+[[/images/mutter-brons.jpg]]
 
 * DONE Vårskörden 2026 - senaste någonsin
   CLOSED: [2026-06-25 Thu 12:00]
