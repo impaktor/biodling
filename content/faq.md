@@ -35,7 +35,7 @@ draft = false
     av monokultur. Här finns alltid något som blommar. Till exempel:
     -   Lindar längst med hela LTH- och Gerdahalls-kvarteret.
     -   Botaniska trädgården bjuder på mycket blomster.
-    -   Egna blommor som lavendel, rosmarin, oregano, fjärilsbuske, rödklöver,
+    -   Egna blommor som lavendel, rosmarin, oregano, fjärilsbuske, brunört, vitklöver,
         vitsippor, kärleksört, äppelträd, liguster-häck, samt en och annan
         försakad maskros.
 
