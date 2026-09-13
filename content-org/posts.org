@@ -251,6 +251,10 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
   :EXPORT_HUGO_PERMALINK: /faq/
   :END:
 
+  #+CAPTION: I september blommar kärleksörten, till småkrypens glädje
+  #+ATTR_HTML: :width 60% :class center
+  [[/images/kärleksört.jpg]]
+
   - *Hur skiljer sig er honung från den man köper i butik?* Nästan all honung
     som säljs i svenska matbutiker är fusk, (@@hugo:[36 av 40 testade
     produkter]({{< relref "posts/honungs-fusk" >}})@@) på något sätt, d.v.s.

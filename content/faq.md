@@ -3,6 +3,8 @@ title = "Vanliga frågor"
 draft = false
 +++
 
+{{< figure src="/images/kärleksört.jpg" caption="<span class=\"figure-number\">Figure 1: </span>I september blommar kärleksörten, till småkrypens glädje" class="center" width="60%" >}}
+
 -   **Hur skiljer sig er honung från den man köper i butik?** Nästan all honung
     som säljs i svenska matbutiker är fusk, ([36 av 40 testade
           produkter]({{< relref "posts/honungs-fusk" >}})) på något sätt, d.v.s.
