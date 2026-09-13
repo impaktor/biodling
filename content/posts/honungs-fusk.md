@@ -16,7 +16,7 @@ Ekologisk Honung, ICA Honung och ICA Basic Flytande honung; även Garant
 Ekologisk honung, Lune de Miel Blomsterhonung, Eldorado Flytande Honung
 och Svensk Honungsförädling Blomsterhonung bedömdes som avvikande._
 
-{{< figure src="/images/testdata.png" width="600" >}}
+{{< figure src="/images/testdata.png" class="center" width="600" >}}
 
 Vidare kan nämnas att den äkta honung man kan köpa i matbutiken från
 biodlarföreningen består av en blandning av honung från många storbiodlare,

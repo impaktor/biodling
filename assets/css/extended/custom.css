@@ -8,3 +8,18 @@ figure figcaption,
 .figure-number {
   display: none;
 }
+
+
+/* Center images */
+figure.center {
+  text-align: center;
+  /* optional but often useful */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figure.center img {
+  display: block;          /* helps with percentage widths */
+  margin-left: auto;
+  margin-right: auto;
+}

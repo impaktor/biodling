@@ -11,7 +11,7 @@
 Välkommen till Fogelmarks biodling!
 
 #+CAPTION: En av bigårdens dubbelkupor, en varm dag där bina sätter sig på flustret i klasar
-#+ATTR_HTML: :width 800
+#+ATTR_HTML: :width 800 :class center
 [[/images/kupa-fram.jpg]]
 
 * Inlägg
@@ -60,7 +60,7 @@ Välkommen till Fogelmarks biodling!
 # https://kontrollwiki.livsmedelsverket.se/artikel/460/markning-av-honung
 
   #+CAPTION: Etiketterna vi använt över årens lopp
-  #+ATTR_HTML: :class align-center :width 600
+  #+ATTR_HTML: :width 600 :class center
   [[/images/etiketter-gamla.jpg]]
 
   På bilden ovan visas några av de olika etiketterna vi använt oss av. De
@@ -79,15 +79,15 @@ Välkommen till Fogelmarks biodling!
   specifika för varje skörd, med datum och vilken typ av honung.
 
   #+CAPTION: De nya etiketterna specificerar både datum och vilken skörd (blå text) honungen kommer från
-  #+ATTR_HTML: :align center :width 75%
+  #+ATTR_HTML: :width 75% :class center
   [[/images/etikett-vår.jpg]]
 
   #+CAPTION: Nu får lind-skörden en tydlig unik etikett, med en lindkvist på
-  #+ATTR_HTML: :align center :width 75%
+  #+ATTR_HTML: :width 75% :class center
   [[/images/etikett-lind.jpg]]
 
   #+CAPTION: Höst-etiketten pryds av arkitekt-ritningen på huset från 1925, där bikuporna står
-  #+ATTR_HTML: :align center :width 75%
+  #+ATTR_HTML: :width 75% :class center
   [[/images/etikett-höst.jpg]]
 
 * DONE Lindskörden 2026 - slungan sönder!
@@ -98,7 +98,7 @@ Välkommen till Fogelmarks biodling!
   :END:
 
 #+CAPTION: Ges bina minsta extra utrymme i lådorna blir det "vildbygge"
-#+ATTR_HTML: :width 600
+#+ATTR_HTML: :width 600 :class center
 [[/images/ram-vildbygge.jpg]]
 
 Under årets andra skörd gick honungs-slungan, som centrifugerar ut honungen
@@ -112,7 +112,7 @@ stycke, men förmodligen har centrum-axeln ätit sig igenom botten av
 mässings-röret.
 
 #+CAPTION: Mässingsmuttern ihoplödd visar sig hålla bra, trots stor påfrestning under centrifugeringen
-#+ATTR_HTML: :width 600
+#+ATTR_HTML: :width 600 :class center
 [[/images/mutter.jpg]]
 
 Vår provisoriska lösning håller än, men skall fixas permanent med riktig
@@ -130,7 +130,7 @@ längs med väggen och yttre kanten på botten -- aldrig i mitten.
    laget. Innerdimensionen blev exakt som på den gamla.
 
 #+CAPTION: Original (mässing) och ny (brons) del till slungan
-#+ATTR_HTML: :width 600
+#+ATTR_HTML: :width 600 :class center
 [[/images/mutter-brons.jpg]]
 
 * DONE Vårskörden 2026 - senaste någonsin
@@ -141,7 +141,7 @@ längs med väggen och yttre kanten på botten -- aldrig i mitten.
   :END:
 
 #+CAPTION: Kupan öppen, 6 skatt-lådor (á 5 ramar) med honung
-#+ATTR_HTML: :width 600
+#+ATTR_HTML: :width 600 :class center
 [[/images/kupa-öppen.jpg]]
 
 År 2026 har varit ett sent år. Första vår-skörden skedde -- för första gången
@@ -160,11 +160,11 @@ bort eventuella drottningceller, annars svärmar de. Efter midsommar minskar
 oftast svärmlusten och man behöver inte kolla dem lika ofta.
 
 #+CAPTION: Den ena kupans yngelrum
-#+ATTR_HTML: :width 600
+#+ATTR_HTML: :width 600 :class center
 [[/images/kupa-yngelrum.jpg]]
 
 #+CAPTION: Drottningen kan inte gå igenom spärr-gallret, på så vis hålls honung och yngel separerade
-#+ATTR_HTML: :width 600
+#+ATTR_HTML: :width 600 :class center
 [[/images/kupa-yngelrum-vänster.jpg]]
 
 * DONE SVT: Nästan all honung i svenska butiker är fusk
@@ -187,7 +187,7 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
   Ekologisk honung, Lune de Miel Blomsterhonung, Eldorado Flytande Honung
   och Svensk Honungsförädling Blomsterhonung bedömdes som avvikande./
 
-  #+ATTR_HTML: :width 600
+  #+ATTR_HTML: :width 600 :class center
   [[/images/testdata.png]]
 
   Vidare kan nämnas att den äkta honung man kan köpa i matbutiken från
@@ -214,7 +214,7 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
 :END:
 
 #+CAPTION: Lindskörden har just blivit upphälld på burk och fått etikett
-#+ATTR_HTML: :width 600
+#+ATTR_HTML: :width 600 :class center
 [[/images/honung-köp.jpg]]
 
 ** Priser
@@ -231,7 +231,7 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
 
 ** Leverans
    #+CAPTION: För tillfället står lådan vid den vänstra grinden.
-   #+ATTR_HTML: :width 600
+   #+ATTR_HTML: :width 600 :class center
    [[/images/honung-säljes.jpg]]
 
    Dagtid försöker vi ha en korg vid grinden (om det inte regnar), med ett par
@@ -288,7 +288,7 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
       försakad maskros.
 
   #+CAPTION:  Bara inom 1 km radie finns både Botaniska trädgården, UB-parken, Tunaparken, Lundagård och Norra Kyrkogården. Bina kan dock flyga 3 gånger längre än så, och täcka in hela Lund.
-  #+ATTR_HTML: :width 100%
+  #+ATTR_HTML: :width 100% :class center
   [[/images/karta-bin.png]]
 
   - *Hur vet man att det är t.ex. just lind-honung?* Honungen tar smak av
@@ -336,7 +336,7 @@ Vi får vanligtvis tre skördar, vilka resulterar i:
 ** Historik
 
    #+CAPTION: Blåregnet som 1991 oväntat blev tillfälligt hem åt vårt första bisamhälle
-   #+ATTR_HTML: :width 600
+   #+ATTR_HTML: :width 600 :class center
    [[/images/blåregn.jpg]]
 
    Vi är en familj som bor på Gerdagatan 8. En varm sommardag 1991 kom det en

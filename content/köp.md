@@ -3,7 +3,7 @@ title = "Köp"
 draft = false
 +++
 
-{{< figure src="/images/honung-köp.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Lindskörden har just blivit upphälld på burk och fått etikett" width="600" >}}
+{{< figure src="/images/honung-köp.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Lindskörden har just blivit upphälld på burk och fått etikett" class="center" width="600" >}}
 
 
 ## Priser {#priser}
@@ -22,7 +22,7 @@ _Vi tar gärna diskade burkar i retur_
 
 ## Leverans {#leverans}
 
-{{< figure src="/images/honung-säljes.jpg" caption="<span class=\"figure-number\">Figure 2: </span>För tillfället står lådan vid den vänstra grinden." width="600" >}}
+{{< figure src="/images/honung-säljes.jpg" caption="<span class=\"figure-number\">Figure 2: </span>För tillfället står lådan vid den vänstra grinden." class="center" width="600" >}}
 
 Dagtid försöker vi ha en korg vid grinden (om det inte regnar), med ett par
 burkar i. Vi fyller på allt eftersom folk går förbi och köper.

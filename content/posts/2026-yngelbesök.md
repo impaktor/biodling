@@ -8,6 +8,6 @@ Varje vecka fram till Midsommar behöver yngelrummen inspekteras för att ta
 bort eventuella drottningceller, annars svärmar de. Efter midsommar minskar
 oftast svärmlusten och man behöver inte kolla dem lika ofta.
 
-{{< figure src="/images/kupa-yngelrum.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Den ena kupans yngelrum" width="600" >}}
+{{< figure src="/images/kupa-yngelrum.jpg" caption="<span class=\"figure-number\">Figure 1: </span>Den ena kupans yngelrum" class="center" width="600" >}}
 
-{{< figure src="/images/kupa-yngelrum-vänster.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Drottningen kan inte gå igenom spärr-gallret, på så vis hålls honung och yngel separerade" width="600" >}}
+{{< figure src="/images/kupa-yngelrum-vänster.jpg" caption="<span class=\"figure-number\">Figure 2: </span>Drottningen kan inte gå igenom spärr-gallret, på så vis hålls honung och yngel separerade" class="center" width="600" >}}

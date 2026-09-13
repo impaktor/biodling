@@ -39,7 +39,7 @@ draft = false
         vitsippor, kärleksört, äppelträd, liguster-häck, samt en och annan
         försakad maskros.
 
-{{< figure src="/images/karta-bin.png" caption="<span class=\"figure-number\">Figure 1: </span>Bara inom 1 km radie finns både Botaniska trädgården, UB-parken, Tunaparken, Lundagård och Norra Kyrkogården. Bina kan dock flyga 3 gånger längre än så, och täcka in hela Lund." width="100%" >}}
+{{< figure src="/images/karta-bin.png" caption="<span class=\"figure-number\">Figure 2: </span>Bara inom 1 km radie finns både Botaniska trädgården, UB-parken, Tunaparken, Lundagård och Norra Kyrkogården. Bina kan dock flyga 3 gånger längre än så, och täcka in hela Lund." class="center" width="100%" >}}
 
 -   **Hur vet man att det är t.ex. just lind-honung?** Honungen tar smak av
     vilka växter de flyger till. Vi bärgar första skörden precis innan lindarna
