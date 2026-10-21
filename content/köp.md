@@ -35,3 +35,5 @@ Vill man köpa mer får man ta kontakt.
 
 -   Ring/Swish: 070 290 47 80
 -   Knacka på: Gerdagatan 8
+
+{{< figure src="/images/vol-26-plate-7.jpg" class="center" width="90%" >}}

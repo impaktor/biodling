@@ -244,6 +244,9 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
   - Ring/Swish: 070 290 47 80
   - Knacka på: Gerdagatan 8
 
+  #+ATTR_HTML: :width 90% :class center
+  [[/images/vol-26-plate-7.jpg]]
+
 * Vanliga frågor
   :PROPERTIES:
   :EXPORT_FILE_NAME: faq
@@ -318,6 +321,10 @@ oftast svärmlusten och man behöver inte kolla dem lika ofta.
     - Inte lämna bina för semester mer än några dagars tid under sommarhalvåret
     - Tunga lyft och varmt i bidräkten
     - Mycket jobb på sommaren, mindre på vintern
+
+
+  #+ATTR_HTML: :width 90% :class center
+  [[/images/vol-26-plate-11.jpg]]
 
 * Om oss
 :PROPERTIES:

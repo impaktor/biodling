@@ -66,3 +66,5 @@ draft = false
     -   Inte lämna bina för semester mer än några dagars tid under sommarhalvåret
     -   Tunga lyft och varmt i bidräkten
     -   Mycket jobb på sommaren, mindre på vintern
+
+{{< figure src="/images/vol-26-plate-11.jpg" class="center" width="90%" >}}
